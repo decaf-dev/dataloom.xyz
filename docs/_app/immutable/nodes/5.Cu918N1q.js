@@ -1,1 +1,0 @@
-import{t as o,a as e}from"../chunks/DMt9KvX0.js";import"../chunks/CCe1dX-Y.js";import{$ as p}from"../chunks/CrYQnJPn.js";import{h as r}from"../chunks/D1uPzj_L.js";const m={title:"Migrate"},{title:i}=m;var n=o("<p>TODO</p>");function l(t){var a=n();r(s=>{p.title=`${i} | DataLoom`}),e(t,a)}export{l as component};
