@@ -5,3 +5,12 @@ title: "Quickstart"
 <svelte:head>
 	<title>{title} | DataLoom</title>
 </svelte:head>
+
+# Quickstart
+
+## Welcome to the DataLoom Quickstart.
+
+In this tutorial we will cover a few basics to help you get started with the plugin.
+
+## Installation
+

@@ -1,1 +1,16 @@
 @import 'tailwindcss';
+@layer base {
+	/* Directly set the heading font */
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		font-family: 'Merriweather', serif;
+	}
+	/* Set the body font */
+	body {
+		font-family: 'Roboto', sans-serif;
+	}
+}
