@@ -1,0 +1,7 @@
+---
+title: "Quickstart"
+---
+
+<svelte:head>
+	<title>{title} | DataLoom</title>
+</svelte:head>
