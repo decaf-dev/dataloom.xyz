@@ -10,7 +10,5 @@ title: "Quickstart"
 
 ## Welcome to the DataLoom Quickstart.
 
-In this tutorial we will cover a few basics to help you get started with the plugin.
-
-## Installation
+This website is a work in progress. Please be patient as it is updated to reflect the newest plugin version.
 
