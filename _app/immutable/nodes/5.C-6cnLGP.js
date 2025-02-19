@@ -1,0 +1,1 @@
+import{t as r,a as m}from"../chunks/DrZHthgj.js";import"../chunks/DoIbzYE1.js";import{f as n,$ as p,e as i}from"../chunks/DYrshFmo.js";import{h as s}from"../chunks/D6-BKeeO.js";const c={title:"Migrate"},{title:a}=c;var f=r("<h1></h1> <p>TODO</p>",1);function x(o){var t=f();s(h=>{p.title=`${a} | DataLoom`});var e=n(t);e.textContent=a,i(2),m(o,t)}export{x as component};
