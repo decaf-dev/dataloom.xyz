@@ -8,7 +8,7 @@
 	<div class="flex items-center gap-x-2">
 		<a href="/" class="contents">
 			<img src="/logo-light.png" alt="DataLoom" class="h-8 w-8" />
-			<div class="font-semibold">DataLoom</div>
+			<span class="font-semibold">DataLoom</span>
 		</a>
 	</div>
 	<div>
@@ -24,6 +24,8 @@
 <main>
 	{@render children()}
 </main>
-<footer class="fixed bottom-0 w-full bg-gray-600 p-4 text-center text-white">
-	<div>Copyright © 2025 DecafDev</div>
+<footer class="w-full bg-black p-10 text-center text-white">
+	<div>
+		Copyright © 2025 <a class="underline" href="https://github.com/decaf-dev">DecafDev</a>
+	</div>
 </footer>
