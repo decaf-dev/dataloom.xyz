@@ -21,10 +21,10 @@
 		</a>
 	</div>
 </nav>
-<main>
+<main class="h-[calc(100vh-168.5px)]">
 	{@render children()}
 </main>
-<footer class="w-full bg-black p-10 text-center text-white">
+<footer class="fixed bottom-0 w-full bg-black p-10 text-center text-white">
 	<div>
 		Copyright © 2025 <a class="underline" href="https://github.com/decaf-dev">DecafDev</a>
 	</div>
